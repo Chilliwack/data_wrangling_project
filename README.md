@@ -1,8 +1,8 @@
 # data_wrangling_project
 
-**data_wrangling_project** is an effort conducted to combine various data elements into one analysis. The goal of this analysis is to:
+**data_wrangling_project** is an effort using data from web scrapping, structured files, and APIs to combine various data elements into one analysis. The goal of this analysis is to:
 
-1. Gather data from web scrapping, structured files, and APIs
+1. Gather data from web scrapping, structured files, and APIs programmatically
 2. Assess the collected data for quality or tidiness issues
 3. Clean the data
 4. Store, analyze, and visualize the data
